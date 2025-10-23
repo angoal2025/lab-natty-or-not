@@ -19,7 +19,7 @@ O resultado é um vídeo de [XX] segundos onde o "Treinador Natty" (nosso avatar
 
 *(Aqui você deve inserir o link do seu vídeo ou o próprio vídeo/GIF)*
 
-**[Link para o Vídeo no YouTube]** *ou*
+**[Clique aqui para ver o vídeo]**(https://www.youtube.com/shorts/UijkNSbC7yg) *ou*
 **[Insira o GIF/MP4 aqui]**
 
 ## 💭 Reflexão (Opcional)
